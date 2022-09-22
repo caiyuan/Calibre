@@ -12,7 +12,7 @@
     src: local("STXihei");
 }
 p {
-    font-family: MiSans;
+    font-family: "MiSans-ExtraLight";
 }
 p, p.text {
     font-weight: 300;
