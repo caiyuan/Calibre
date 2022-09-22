@@ -11,10 +11,8 @@
     font-family: Hei;
     src: local("STXihei");
 }
-p {
-    font-family: "MiSans-ExtraLight";
-}
 p, p.text {
+    font-family: "MiSans";
     font-weight: 300;
 }
 ```
