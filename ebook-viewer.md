@@ -11,4 +11,7 @@
     font-family: Hei;
     src: local("STXihei");
 }
+p, p.text {
+    font-weight: 300;
+}
 ```
