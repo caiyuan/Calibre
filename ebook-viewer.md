@@ -1,7 +1,6 @@
 ```css
 @font-face {
     font-family: Kai;
-    src: local("STKaiti");
     src: local("STFangsong");
 }
 p, p.text {
