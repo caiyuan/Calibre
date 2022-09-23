@@ -5,12 +5,9 @@
 }
 ```
 ```css
-p, p.text {
-    font-family: MiSans;
-    font-weight: 300;
+html {
+    font-family: STFangsong;
 }
-```
-```css
 p, p.text {
     font-family: MiSans-ExtraLight;
 }
