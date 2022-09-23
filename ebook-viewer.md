@@ -9,7 +9,8 @@ html {
     font-family: STFangsong;
 }
 p, p.text {
-    font-family: MiSans-ExtraLight;
+    font-family: MiSans;
+    font-weight: 300;
 }
 ```
 ```css
