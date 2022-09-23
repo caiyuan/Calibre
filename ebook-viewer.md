@@ -1,8 +1,10 @@
 ```css
 @font-face {
-    font-family: Kai;
-    src: local("STFangsong");
+    font-family: "BiauKai";
+    src: local("STKaiti");
 }
+```
+```css
 p, p.text {
     font-family: "MiSans";
     font-weight: 300;
