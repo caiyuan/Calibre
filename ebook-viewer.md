@@ -23,7 +23,7 @@ html {
     font-family: STFangsong;
 }
 p, p.text {
-    font-family: MiSans;
+    font-family: MiSans-ExtraLight;
 }
 ```
 ```css
