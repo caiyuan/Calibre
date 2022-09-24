@@ -23,7 +23,7 @@ html {
     font-family: STFangsong;
 }
 p, p.text {
-    font-family: MiSans;
+    font-family: MiSans-ExtraLight;
     margin-bottom: .5em;
     line-height: 1.5em;
 }
