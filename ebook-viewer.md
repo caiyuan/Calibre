@@ -24,6 +24,8 @@ html {
 }
 p, p.text {
     font-family: MiSans;
+    margin-bottom: .5em;
+    line-height: 1.5em;
 }
 ```
 ```css
