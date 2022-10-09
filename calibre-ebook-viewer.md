@@ -13,7 +13,7 @@
 
 ```css
 @font-face {
-    font-family: BiauKai;
+    font-family: Kai;
     src: local(Kaiti);
 }
 ```
