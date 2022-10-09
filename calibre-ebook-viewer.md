@@ -24,12 +24,8 @@
 ```css
 html {
     font-family: Songti;
-}
-p {
     line-height: 1.5em;
 }
-```
-```css
 p {
     font-family: MiSans;
     font-weight: 300;
