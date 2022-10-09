@@ -16,6 +16,10 @@
     font-family: Kai;
     src: local(Kaiti);
 }
+@font-face {
+    font-family: Hei;
+    src: local(Heiti);
+}
 ```
 ```css
 html {
