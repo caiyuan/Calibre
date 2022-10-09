@@ -25,18 +25,13 @@
 html {
     font-family: Songti;
 }
-p, p.text {
-    font-family: MiSans-ExtraLight;
-    margin-bottom: .5em;
+p {
     line-height: 1.5em;
 }
 ```
 ```css
-img {
-    max-width: 45%;
-}
-hr {
-    border: none;
+p {
+    font-family: MiSans-ExtraLight;
 }
 ```
 
