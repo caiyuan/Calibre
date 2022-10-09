@@ -28,7 +28,6 @@ html {
 }
 p {
     font-family: 'MiSans-ExtraLight';
-    font-weight: 300;
 }
 ```
 
