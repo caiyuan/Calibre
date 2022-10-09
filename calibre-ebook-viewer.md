@@ -31,7 +31,8 @@ p {
 ```
 ```css
 p {
-    font-family: MiSans-ExtraLight;
+    font-family: MiSans;
+    font-weight: 300;
 }
 ```
 
