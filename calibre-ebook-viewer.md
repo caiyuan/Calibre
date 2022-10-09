@@ -27,7 +27,7 @@ html {
     line-height: 1.5em;
 }
 p {
-    font-family: PingFang, MiSans;
+    font-family: 'MiSans-ExtraLight';
     font-weight: 300;
 }
 ```
