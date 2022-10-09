@@ -14,12 +14,12 @@
 ```css
 @font-face {
     font-family: BiauKai;
-    src: local(STKaiti);
+    src: local(Kaiti);
 }
 ```
 ```css
 html {
-    font-family: STFangsong;
+    font-family: Songti;
 }
 p, p.text {
     font-family: MiSans-ExtraLight;
