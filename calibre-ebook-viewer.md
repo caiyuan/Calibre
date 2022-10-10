@@ -26,13 +26,13 @@ html {
     font-family: Songti;
     line-height: 1.5em;
 }
-p {
-    font-family: 'MiSans-ExtraLight';
+a {
+    text-decoration: none;
 }
 ```
 ```css
-a {
-    text-decoration: none;
+p {
+    font-family: 'MiSans-ExtraLight';
 }
 ```
 
