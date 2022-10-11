@@ -13,12 +13,16 @@
 
 ```css
 @font-face {
-    font-family: Kai;
-    src: local(Kaiti);
+    font-family: Hei;
+    src: local('Heiti SC');
 }
 @font-face {
-    font-family: Hei;
-    src: local(Heiti);
+    font-family: Song;
+    src: local('Songti SC');
+}
+@font-face {
+    font-family: Kai;
+    src: local('Kaiti SC');
 }
 ```
 ```css
