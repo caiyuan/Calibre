@@ -32,7 +32,7 @@ a {
 ```
 ```css
 p {
-    font-family: 'MiSans-ExtraLight';
+    font-family: MiSans;
 }
 ```
 ```css
