@@ -27,16 +27,11 @@
 ```
 ```css
 html {
-    font-family: Songti;
+    font-family: MiSans;
     line-height: 1.5em;
 }
 a {
     text-decoration: none;
-}
-```
-```css
-p {
-    font-family: MiSans;
 }
 ```
 ```css
