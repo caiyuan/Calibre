@@ -37,6 +37,12 @@ a {
 ```css
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 ```
+```css
+p {
+    font-family: MiSans;
+    font-weight: normal;
+}
+```
 
 ## 其它
 
