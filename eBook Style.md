@@ -12,10 +12,16 @@ h1 {
 ```
 - 方框
 ```css
-div.tips {
+.tips {
+    border: solid 2px #727272;
     border-radius: 5px;
-    border: 2px solid #727272;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+```
+```css
+.tips {
+    border-style: double;
+    padding: 0.5em;
 }
 ```
