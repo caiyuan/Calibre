@@ -6,7 +6,7 @@
 h1 {
     font-size: 1.5em;
     text-align: center;
-    margin-top: 1em;
+    margin-top: 3em;
     margin-bottom: 1.5em;
 }
 ```
