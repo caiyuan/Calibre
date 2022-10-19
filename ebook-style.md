@@ -1,4 +1,3 @@
-## · eBook Style ·
 
 - 标题
 
