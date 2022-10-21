@@ -45,6 +45,7 @@ a {
 p {
     font-family: MiSans;
     font-weight: normal;
+    text-align: start;
 }
 ```
 
