@@ -1,4 +1,17 @@
 
+- 字体
+
+```css
+@font-face {
+    font-family: Song;
+    src: local('Songti SC');
+}
+@font-face {
+    font-family: Kai;
+    src: local('Kaiti SC');
+}
+```
+
 - 标题
 
 ```css
