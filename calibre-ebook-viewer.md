@@ -16,16 +16,6 @@
 - 样式
 
 ```css
-@font-face {
-    font-family: Song;
-    src: local('Songti SC');
-}
-@font-face {
-    font-family: Kai;
-    src: local('Kaiti SC');
-}
-```
-```css
 html {
     font-family: MiSans;
     line-height: 1.5em;
