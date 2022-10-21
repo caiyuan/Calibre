@@ -17,10 +17,6 @@
 
 ```css
 @font-face {
-    font-family: Hei;
-    src: local('Heiti SC');
-}
-@font-face {
     font-family: Song;
     src: local('Songti SC');
 }
