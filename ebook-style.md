@@ -44,6 +44,13 @@ h1 {
 ```
 ```css
 .tips {
+  border-radius: 5px;
+  padding: 1em;
+  background-color: rgba(200, 200, 200, 0.3);
+}
+```
+```css
+.tips {
     border: solid 2px #727272;
     border-radius: 5px;
     padding-left: 0.5em;
