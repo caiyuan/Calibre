@@ -28,7 +28,6 @@ h1 {
 ```css
 .tips {
     border-style: double;
-    padding: 0.5em;
 }
 ```
 ```css
@@ -36,25 +35,18 @@ h1 {
     border-style: double;
     border-left: 0;
     border-right: 0;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    margin-top: 2em;
-    margin-bottom: 2em;
 }
 ```
 ```css
 .tips {
+  border: dashed 1px #727272;
   border-radius: 5px;
-  padding: 1em;
-  background-color: rgba(200, 200, 200, 0.3);
 }
 ```
 ```css
 .tips {
-    border: solid 2px #727272;
-    border-radius: 5px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+  background-color: rgba(200, 200, 200, 0.3);
+  border-radius: 5px;
 }
 ```
 
