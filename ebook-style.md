@@ -1,4 +1,11 @@
 
+> - 共有五種[通用字體](https://www.w3.org/Style/Examples/007/fonts.zh_HK.html)
+>    - sans-serif (無襯線體)
+>    - serif (襯線體)
+>    - cursive (草書體)
+>    - monospace (等寬體)
+>    - fantasy (幻想體)
+
 - 字体
 
 ```css
