@@ -3,8 +3,8 @@
 >    - sans-serif (無襯線體)
 >    - serif (襯線體)
 >    - cursive (草書體)
->    - monospace (等寬體)
 >    - fantasy (幻想體)
+>    - monospace (等寬體)
 
 - 字体
 
