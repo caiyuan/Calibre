@@ -15,6 +15,7 @@
 html {
     font-family: MiSans;
     line-height: 1.5em;
+    text-align: start;
 }
 a {
     text-decoration: none;
@@ -27,7 +28,6 @@ a {
 p {
     font-family: MiSans;
     font-weight: normal;
-    text-align: start;
 }
 ```
 
