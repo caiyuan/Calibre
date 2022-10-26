@@ -15,7 +15,6 @@
 html {
     font-family: MiSans;
     line-height: 1.5em;
-    text-align: start;
 }
 a {
     text-decoration: none;
