@@ -25,7 +25,7 @@ a {
 ```
 ```css
 p {
-    font-family: PingFangSC-Light;
+    font-family: MiSans-Light;
 }
 ```
 
