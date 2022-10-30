@@ -25,7 +25,7 @@ a {
 ```
 ```css
 p {
-    font-family: MiSans-Light;
+    font-family: MiSans;
 }
 ```
 
