@@ -13,7 +13,7 @@
 
 ```css
 html {
-    font-family: MiSans;
+    font-family: PingFangSC;
     line-height: 1.5em;
 }
 a {
@@ -25,7 +25,7 @@ a {
 ```
 ```css
 p {
-    font-family: MiSans;
+    font-family: PingFangSC-Light;
     font-weight: normal;
 }
 ```
