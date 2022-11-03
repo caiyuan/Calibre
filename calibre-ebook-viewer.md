@@ -12,7 +12,7 @@
 - 样式
 
 ```css
-html {
+html, p {
     font-family: PingFangSC;
     line-height: 1.5em;
 }
