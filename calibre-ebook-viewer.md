@@ -23,17 +23,6 @@ a {
 ```css
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 ```
-```css
-p {
-    font-family: PingFangSC-Light;
-}
-```
-```css
-image, img, svg {
-    max-height: 100%;
-    max-width: 70%;
-}
-```
 
 ## 其它
 
