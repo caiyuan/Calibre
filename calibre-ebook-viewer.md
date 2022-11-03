@@ -16,9 +16,13 @@ html {
     font-family: PingFangSC;
     line-height: 1.5em;
 }
+```
+```css
 a {
     text-decoration: none;
 }
+```
+```css
 image, img, svg {
     max-height: 100%;
 }
