@@ -28,6 +28,12 @@ p {
     font-family: PingFangSC-Light;
 }
 ```
+```css
+image, img, svg {
+    max-height: 100% !important;
+    max-width: 70% !important;
+}
+```
 
 ## 其它
 
