@@ -19,6 +19,9 @@ html {
 a {
     text-decoration: none;
 }
+image, img, svg {
+    max-height: 100%;
+}
 ```
 ```css
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
