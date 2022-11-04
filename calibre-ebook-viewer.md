@@ -18,13 +18,13 @@ html, p {
 }
 ```
 ```css
-a {
-    text-decoration: none;
+image, img, svg {
+    max-height: 100%;
 }
 ```
 ```css
-image, img, svg {
-    max-height: 100%;
+a {
+    text-decoration: none;
 }
 ```
 ```css
