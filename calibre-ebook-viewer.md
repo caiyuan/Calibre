@@ -19,7 +19,8 @@ html, p {
 ```
 ```css
 image, img, svg {
-    max-height: 100%;
+    max-height: 100% !important;
+    max-width: 70% !important;
 }
 ```
 ```css
