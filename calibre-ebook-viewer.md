@@ -15,6 +15,7 @@
 html, p {
     font-family: PingFangSC;
     font-weight: normal;
+    font-size: 1em;
     line-height: 1.6em;
 }
 ```
