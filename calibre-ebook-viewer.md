@@ -26,6 +26,11 @@ image, img, svg {
 }
 ```
 ```css
+* {
+    writing-mode: unset !important;
+}
+```
+```css
 a {
     text-decoration: none;
 }
