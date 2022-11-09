@@ -26,7 +26,7 @@ image, img, svg {
 }
 ```
 ```css
-* {
+html {
     writing-mode: unset !important;
 }
 ```
