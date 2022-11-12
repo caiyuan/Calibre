@@ -27,12 +27,9 @@ html {
 }
 ```
 ```css
-image, img, svg {
-    max-height: 100% !important;
-    max-width: 70% !important;
+sup {
+    font-size: 0.5em;
 }
-```
-```css
 a {
     text-decoration: none;
 }
