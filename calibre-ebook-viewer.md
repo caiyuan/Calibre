@@ -17,8 +17,7 @@ html, p {
     font-weight: normal;
     font-size: 1em;
     line-height: 1.5em;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin: 0;
 }
 ```
 ```css
@@ -29,9 +28,7 @@ html {
 ```css
 sup {
     font-size: 0.5em;
-}
-a {
-    text-decoration: none;
+    vertical-align: unset;
 }
 ```
 ```css
