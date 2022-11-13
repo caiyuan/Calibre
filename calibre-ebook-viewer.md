@@ -33,8 +33,9 @@ sup {
 ```
 ```css
 image, img, svg {
-    max-height: 100% !important;
-    max-width: 70% !important;
+    max-width: 75% !important;
+    display: block;
+    margin: auto;
 }
 ```
 ```css
