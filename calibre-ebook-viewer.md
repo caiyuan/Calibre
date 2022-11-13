@@ -32,6 +32,12 @@ sup {
 }
 ```
 ```css
+image, img, svg {
+    max-height: 100% !important;
+    max-width: 70% !important;
+}
+```
+```css
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 ```
 
