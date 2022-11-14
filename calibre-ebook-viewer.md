@@ -26,19 +26,6 @@ html {
 }
 ```
 ```css
-sup {
-    font-size: 0.5em;
-    vertical-align: unset;
-}
-```
-```css
-image, img, svg {
-    max-width: 75% !important;
-    display: block;
-    margin: auto;
-}
-```
-```css
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 ```
 
