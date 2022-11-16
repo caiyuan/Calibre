@@ -25,6 +25,13 @@ html {
     writing-mode: unset !important;
 }
 ```
+```
+image, img, svg {
+    max-width: 65% !important;
+    display: block;
+    margin: auto;
+}
+```
 ```css
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 ```
