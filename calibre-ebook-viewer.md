@@ -25,7 +25,7 @@ html {
     writing-mode: unset !important;
 }
 ```
-```
+```css
 image, img, svg {
     max-width: 65% !important;
     display: block;
