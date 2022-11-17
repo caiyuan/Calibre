@@ -29,7 +29,7 @@ html {
 image, img, svg {
     max-width: 65% !important;
     display: block;
-    margin: auto;
+    margin: auto !important;
 }
 ```
 ```css
