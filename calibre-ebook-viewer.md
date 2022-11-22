@@ -27,9 +27,9 @@ html {
 ```
 ```css
 image, img, svg {
-    max-width: 65% !important;
     display: block;
     margin: auto !important;
+    max-width: 65% !important;
 }
 ```
 ```css
