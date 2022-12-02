@@ -35,6 +35,14 @@ image, img, svg {
 ```css
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 ```
+```css
+h1, h2, h3, h4, h5, h6 {
+    color: unset !important;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+```
 
 ## 其它
 
