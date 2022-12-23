@@ -26,14 +26,14 @@ html, * {
 }
 ```
 ```css
+/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
+```
+```css
 image, img, svg {
     display: block;
     margin: auto !important;
     max-width: 65% !important;
 }
-```
-```css
-/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 ```
 ```css
 h1, h2, h3, h4, h5, h6 {
