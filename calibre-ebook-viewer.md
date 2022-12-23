@@ -21,7 +21,7 @@ html, p {
 }
 ```
 ```css
-html {
+html, * {
     writing-mode: unset !important;
 }
 ```
