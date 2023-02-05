@@ -13,7 +13,7 @@
 
 ```css
 html, p {
-    font-family: PingFangTC;
+    font-family: 'Noto Sans SC';
     font-weight: normal;
     font-size: 1em;
     line-height: 1.5em;
