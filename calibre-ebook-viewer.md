@@ -43,7 +43,17 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 ```
-
+```css
+/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
+```
+```css
+[class*='kai'] {
+    font-family: 'STKaiti';
+}
+[class*='song'] {
+    font-family: 'STFangsong';
+}
+```
 ## 其它
 
 - PDF
