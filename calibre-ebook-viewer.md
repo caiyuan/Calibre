@@ -17,7 +17,7 @@ html, p {
     font-weight: normal;
     font-size: 1em;
     line-height: 1.5em;
-    margin: 0;
+    margin: 1em 0;
 }
 ```
 ```css
