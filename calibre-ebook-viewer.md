@@ -12,6 +12,12 @@
 - 样式
 
 ```css
+* {
+    writing-mode: unset !important;
+}
+
+/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
+
 html, p {
     font-family: 'Noto Sans SC';
     font-weight: normal;
@@ -19,34 +25,22 @@ html, p {
     line-height: 1.5em;
     margin: 1em 0;
 }
-```
-```css
-html, * {
-    writing-mode: unset !important;
-}
-```
-```css
-/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
-```
-```css
-image, img, svg {
-    display: block;
-    margin: auto !important;
-    max-width: 65% !important;
-}
-```
-```css
+
 h1, h2, h3, h4, h5, h6 {
     color: unset !important;
     margin-top: 1.5em;
     margin-bottom: 1em;
     font-weight: bold;
 }
-```
-```css
+
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
-```
-```css
+
+image, img, svg {
+    display: block;
+    margin: auto !important;
+    max-width: 65% !important;
+}
+
 [class*='kai'] {
     font-family: 'STKaiti';
 }
@@ -54,6 +48,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'STFangsong';
 }
 ```
+
 ## 其它
 
 - PDF
