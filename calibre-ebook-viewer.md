@@ -23,6 +23,9 @@ html, p {
     font-weight: normal;
     font-size: 1em;
     line-height: 1.5em;
+}
+
+p {
     margin: 0.5em 0;
 }
 
