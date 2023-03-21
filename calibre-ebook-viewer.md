@@ -41,6 +41,9 @@ image, img, svg {
     margin: 0.5em auto !important;
     max-width: 65% !important;
 }
+body > img {
+    margin: auto !important;
+}
 
 [class*='kai'] {
     font-family: 'STKaiti';
