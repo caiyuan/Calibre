@@ -38,11 +38,9 @@ h1, h2, h3, h4, h5, h6 {
 
 image, img, svg {
     display: block;
-    margin: 0.5em auto !important;
-    max-width: 65% !important;
-}
-body > img {
     margin: auto !important;
+    padding: 1px !important;
+    max-width: 65% !important;
 }
 
 [class*='kai'] {
