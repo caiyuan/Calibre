@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 
 image, img, svg {
     display: block;
-    margin: auto !important;
+    margin: 0.5em auto !important;
     max-width: 65% !important;
 }
 
