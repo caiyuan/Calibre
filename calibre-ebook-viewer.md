@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 image, img, svg {
     display: block;
     margin: auto !important;
-    padding: 1px !important;
+    padding: 0.25em !important;
     max-width: 65% !important;
 }
 
