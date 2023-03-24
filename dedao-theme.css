@@ -1,0 +1,151 @@
+/* 不区分主题 */
+html {
+  /* 命名规范: --CC-16进制色值（全大写） */
+  --CC-FFF: #fff;
+  --CC-999: #999;
+  --CC-666: #666;
+  --CC-F5F3F1: #f5f3f1;
+  --CC-FFF6CA: #fff6ca;
+
+  /* alpha color */
+  /* 命名规范: --CC-16进制色值-A透明度（全大写）*/
+  --CC-000-A05: rgba(0, 0, 0, 0.05);
+  --CC-000-A10: rgba(0, 0, 0, 0.1);
+  --CC-000-A15: rgba(0, 0, 0, 0.15);
+  --CC-000-A50: rgba(0, 0, 0, 0.5);
+  --CC-000-A70: rgba(0, 0, 0, 0.7);
+  --CC-FF6B00-A10: rgba(255, 107, 0, 0.1);
+}
+
+/* 区分主题 */
+html[data-theme='normal'] {
+  /* brand color */
+  --brand: #ff6b00;
+  --brand-hover: #ff8933;
+  --brand-click: #f26600;
+
+  /* background color */
+  --bg-f0f0f0: #f0f0f0;
+  --bg-ebecee: #ebecee;
+  --bg-e2e3e6: #e2e3e6;
+  --bg-f5efd9: #f5efd9;
+  --bg-f1f2f5: #f1f2f5;
+  --bg-e5e7ea: #e5e7ea;
+  --bg-d4d4d4: #d4d4d4;
+  --bg-f9f9f9: #f9f9f9;
+  --bg-e5e5e5: #e5e5e5;
+  --bg-f7f7f7: #f7f7f7;
+  --bg-f5f3f1: #f5f3f1;
+
+  /* font color */
+  --font-fff: #fff;
+  --font-333: #333;
+  --font-000: #000;
+  --font-b6b6b6: #b6b6b6;
+
+  /* border color */
+  --border-d5d7da: #d5d7da;
+  --border-c4c4c4: #c4c4c4;
+
+  /* fill color */
+  --fill-e1e1e1: #e1e1e1;
+}
+
+html[data-theme='yellow'] {
+  /* brand color */
+  --brand: #9b680e;
+  --brand-hover: #af8631;
+  --brand-click: #93630d;
+
+  /* background color */
+  --bg-f0f0f0: #e4dfcd;
+  --bg-ebecee: #e7e1d5;
+  --bg-e2e3e6: #dcd6cb;
+  --bg-f5efd9: #dad0ae;
+  --bg-f1f2f5: #ede7db;
+  --bg-e5e7ea: #ddd8cd;
+  --bg-d4d4d4: #cac4b3;
+  --bg-f9f9f9: #e7e1d5;
+  --bg-e5e5e5: #cac4b3;
+  --bg-f7f7f7: #f1ede6;
+  --bg-f5f3f1: #f5f3f1;
+
+  /* font color */
+  --font-fff: #fff;
+  --font-333: #333;
+  --font-000: #000;
+  --font-b6b6b6: #b6b6b6;
+
+  /* border color */
+  --border-d5d7da: #cac4b3;
+  --border-c4c4c4: #b8b8b8;
+
+  /* fill color */
+  --fill-e1e1e1: #cac4b3;
+}
+
+html[data-theme='green'] {
+  /* brand color */
+  --brand: #14801d;
+  --brand-hover: #43994a;
+  --brand-click: #137a1c;
+
+  /* background color */
+  --bg-f0f0f0: #a6c9ab;
+  --bg-ebecee: #adc9b0;
+  --bg-e2e3e6: #a1bba4;
+  --bg-f5efd9: #8cbb93;
+  --bg-f1f2f5: #b5d0b8;
+  --bg-e5e7ea: #a5c1a8;
+  --bg-d4d4d4: #99b49d;
+  --bg-f9f9f9: #adc9b0;
+  --bg-e5e5e5: #99b49d;
+  --bg-f7f7f7: #c5d9c7;
+  --bg-f5f3f1: #f5f3f1;
+
+  /* font color */
+  --font-fff: #fff;
+  --font-333: #333;
+  --font-000: #000;
+  --font-b6b6b6: #b6b6b6;
+
+  /* border color */
+  --border-d5d7da: #99b49d;
+  --border-c4c4c4: #b8b8b8;
+
+  /* fill color */
+  --fill-e1e1e1: #99b49d;
+}
+
+html[data-theme='dark'] {
+  /* brand color */
+  --brand: #7f3500;
+  --brand-hover: #995d33;
+  --brand-click: #793200;
+
+  /* background color */
+  --bg-f0f0f0: #000;
+  --bg-ebecee: #1c1e20;
+  --bg-e2e3e6: #000;
+  --bg-f5efd9: #333;
+  --bg-f1f2f5: #333;
+  --bg-e5e7ea: #17191a;
+  --bg-d4d4d4: #333;
+  --bg-f9f9f9: #1c1e20;
+  --bg-e5e5e5: #333;
+  --bg-f7f7f7: #1c1e20;
+  --bg-f5f3f1: #1c1e20;
+
+  /* font color */
+  --font-fff: #e1e1e1;
+  --font-333: #999;
+  --font-000: #999;
+  --font-b6b6b6: #666;
+
+  /* border color */
+  --border-d5d7da: #333;
+  --border-c4c4c4: #666;
+
+  /* fill color */
+  --fill-e1e1e1: #333;
+}
