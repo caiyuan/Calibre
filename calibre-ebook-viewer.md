@@ -44,10 +44,10 @@ image, img, svg {
 }
 
 [class*='kai'] {
-    font-family: 'STKaiti';
+    font-family: 'STKaiti' !important;
 }
 [class*='song'] {
-    font-family: 'STFangsong';
+    font-family: 'STFangsong' !important;
 }
 ```
 
