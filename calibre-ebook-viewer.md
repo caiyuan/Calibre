@@ -22,7 +22,7 @@ html, p {
     font-family: 'Noto Sans SC';
     font-weight: normal;
     font-size: 1em;
-    line-height: 1.5em;
+    line-height: 1.7em;
     margin: 0;
 }
 
