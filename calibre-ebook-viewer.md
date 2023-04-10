@@ -34,6 +34,10 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 1em;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 
 image, img, svg {
