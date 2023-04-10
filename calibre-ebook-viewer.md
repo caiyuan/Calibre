@@ -19,7 +19,7 @@
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 
 html, p {
-    font-family: 'Noto Sans SC';
+    font-family: 'STFangsong','Noto Sans SC';
     font-weight: normal;
     font-size: 1em;
     line-height: 1.7em;
