@@ -20,7 +20,7 @@
 
 html, p {
     font-family: 'OPlusSans 3.0','STFangsong','STKaiti';
-    font-weight: normal;
+    font-weight: 300;
     font-size: 1em;
     line-height: 1.7em;
     margin: 0;
