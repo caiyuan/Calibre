@@ -19,8 +19,8 @@
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 
 html, p {
-    font-family: 'OPlusSans 3.0','STFangsong','STKaiti';
-    font-weight: 300;
+    font-family: 'OPlusSans3.0-Light','STFangsong','STKaiti';
+    font-weight: unset;
     font-size: 1em;
     line-height: 1.7em;
     margin: 0;
@@ -47,11 +47,11 @@ image, img, svg {
     max-width: 65% !important;
 }
 
-[class*='kai'] {
-    font-family: 'STKaiti' !important;
-}
 [class*='song'] {
     font-family: 'STFangsong' !important;
+}
+[class*='kai'] {
+    font-family: 'STKaiti' !important;
 }
 ```
 
