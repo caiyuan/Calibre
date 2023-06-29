@@ -1,7 +1,6 @@
 # Calibre
 
-- [Google Fonts](https://fonts.google.com/)
-  - [Noto](https://fonts.google.com/?query=chinese)
+- OPPO Sans
 - 华文字库
   - STFangsong
   - STKaiti
