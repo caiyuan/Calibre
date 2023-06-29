@@ -19,7 +19,7 @@
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 
 html, p {
-    font-family: 'OPlusSans3.0-Light','STFangsong','STKaiti';
+    font-family: 'OPlusSans3.0-Light';
     font-weight: unset;
     font-size: 1em;
     line-height: 1.7em;
