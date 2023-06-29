@@ -26,9 +26,9 @@ html, p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: unset !important;
     font-weight: bold;
     line-height: 1.5em;
+    color: unset !important;
     margin-top: 1.5em;
     margin-bottom: 1em;
 }
