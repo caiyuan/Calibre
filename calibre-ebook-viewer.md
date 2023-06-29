@@ -8,16 +8,15 @@
 | 前景 | #262523 | #B5B5B5 | #222222 | #33302E | #D0D3D8 |
 | 链接 | #B98A2B | #2E7CB8 | #14801D | #990F3D | #0097FF |
 
-
 - 样式
 
 ```css
 * {
     writing-mode: unset !important;
 }
+```
 
-/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
-
+```css
 html, p {
     font-family: 'OPlusSans3.0-Light';
     font-weight: unset;
@@ -46,18 +45,12 @@ image, img, svg {
     padding: 0.25em !important;
     max-width: 65% !important;
 }
-
-[class*='song'] {
-    font-family: 'STFangsong' !important;
-}
-[class*='kai'] {
-    font-family: 'STKaiti' !important;
-}
 ```
 
 ## 其它
 
 - PDF
+
 ```
 字号 38
 边距 150
