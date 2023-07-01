@@ -16,7 +16,7 @@ html, p {
     font-weight: unset;
     font-size: 1em;
     line-height: 1.7em;
-    margin: 0;
+    margin: unset;
 }
 
 h1, h2, h3, h4, h5, h6 {
