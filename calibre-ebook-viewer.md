@@ -11,12 +11,6 @@
 - 样式
 
 ```css
-* {
-    writing-mode: unset !important;
-}
-```
-
-```css
 html, p {
     font-family: 'OPlusSans3.0-Light';
     font-weight: unset;
@@ -33,11 +27,11 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 1em;
 }
 
+/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
+
 a {
     text-decoration: none;
 }
-
-/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 
 image, img, svg {
     display: block;
@@ -47,11 +41,17 @@ image, img, svg {
 }
 ```
 
+```css
+* {
+    writing-mode: unset !important;
+}
+```
+
 ## 其它
 
 - PDF
 
-```
-字号 38
-边距 150
-```
+| 属性 | 值 |
+| --- | --- |
+| 字号 | 38 |
+| 边距 | 150 |
