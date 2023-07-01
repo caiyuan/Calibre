@@ -14,17 +14,17 @@
 html, p {
     font-family: 'OPlusSans3.0-Light';
     font-weight: unset;
-    font-size: 1em;
     line-height: 1.7em;
+    font-size: 1em;
     margin: unset;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     line-height: 1.5em;
+    color: unset !important;
     margin-top: 1.5em;
     margin-bottom: 1em;
-    color: unset !important;
 }
 
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
