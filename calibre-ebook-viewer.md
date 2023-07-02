@@ -11,6 +11,10 @@
 - 样式
 
 ```css
+* { writing-mode: unset !important; }
+
+/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
+
 html, p {
     font-family: 'OPlusSans3.0-Light';
     font-weight: unset;
@@ -29,8 +33,12 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
 
-a {
-    text-decoration: none;
+a { text-decoration: none; }
+
+sup, sup a {
+    font-size: x-small;
+    font-weight: bold;
+    vertical-align: bottom;
 }
 
 image, img, svg {
@@ -38,12 +46,6 @@ image, img, svg {
     margin: auto !important;
     padding: 0.25em !important;
     max-width: 65% !important;
-}
-```
-
-```css
-* {
-    writing-mode: unset !important;
 }
 ```
 
