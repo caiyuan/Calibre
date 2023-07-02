@@ -11,10 +11,6 @@
 - 样式
 
 ```css
-* { writing-mode: unset !important; }
-
-/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
-
 html, p {
     font-family: 'OPlusSans3.0-Light';
     font-weight: unset;
@@ -47,6 +43,10 @@ image, img, svg {
     padding: 0.25em !important;
     max-width: 65% !important;
 }
+```
+
+```css
+* { writing-mode: unset !important; }
 ```
 
 ## 其它
