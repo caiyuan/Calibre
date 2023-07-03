@@ -1,9 +1,12 @@
 # Calibre
 
-| 字体 | font-family |
+| 字体 | PostScript 名称 |
 | --- | ---|
-| OPPO Sans | `OPlusSans 3.0` or `OPlusSans3.0` |
+| OPPO Sans | `OPlusSans 3.0` |
 | OPPO Sans Light | `OPlusSans3.0-Light` |
+| 苹方-简 | `PingFang SC` |
+| 苹方-简 细体 | `PingFangSC-Light` |
+
 
 | 字体 | font-family |
 | --- | ---|
