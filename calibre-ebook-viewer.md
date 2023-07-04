@@ -14,7 +14,7 @@
 html, p {
     font-family: 'OPlusSans3.0-Light';
     font-weight: unset;
-    line-height: 1.7em;
+    line-height: 1.9em;
     font-size: 1em;
     margin: unset;
 }
