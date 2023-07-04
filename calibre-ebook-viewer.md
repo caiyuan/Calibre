@@ -12,7 +12,7 @@
 
 ```css
 html, p {
-    font-family: 'OPlusSans3.0-Light';
+    font-family: 'OPlusSans 3.0';
     font-weight: unset;
     line-height: 1.9em;
     font-size: 1em;
