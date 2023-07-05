@@ -11,22 +11,22 @@
 - 样式
 
 ```css
-html, p {
+html {
+    font-family: 'OPlusSans 3.0';
     -webkit-font-size-adjust: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
 
-    font-family: 'OPlusSans 3.0';
-    font-weight: unset;
+p {
+    font-weight: normal;
     line-height: 1.9em;
-    font-size: 1em;
-    margin: unset;
+    margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     line-height: 1.5em;
-    color: unset !important;
     margin-top: 1.5em;
     margin-bottom: 1em;
 }
