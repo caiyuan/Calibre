@@ -13,7 +13,6 @@
 ```css
 html {
     font-family: 'OPlusSans 3.0';
-    -webkit-font-size-adjust: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
