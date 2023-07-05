@@ -12,15 +12,15 @@
 
 ```css
 html, p {
+    -webkit-font-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
     font-family: 'OPlusSans 3.0';
     font-weight: unset;
     line-height: 1.9em;
     font-size: 1em;
     margin: unset;
-
-    -webkit-font-size-adjust: none;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
 }
 
 h1, h2, h3, h4, h5, h6 {
