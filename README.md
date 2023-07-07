@@ -3,11 +3,11 @@
 | 字体 | PostScript 名称 |
 | --- | ---|
 | HarmonyOS Sans 简 | `HarmonyOS Sans SC` |
-| HarmonyOS Sans 简 细 | `HarmonyOS_Sans_SC_Light` |
+| HarmonyOS Sans 简 细体 | `HarmonyOS_Sans_SC_Light` |
 | HarmonyOS Sans 繁 | `HarmonyOS Sans TC` |
-| HarmonyOS Sans 繁 细 | `HarmonyOS_Sans_TC_Light` |
+| HarmonyOS Sans 繁 细体 | `HarmonyOS_Sans_TC_Light` |
 | OPPO Sans | `OPlusSans 3.0` |
-| OPPO Sans Light | `OPlusSans3.0-Light` |
+| OPPO Sans 细体 | `OPlusSans3.0-Light` |
 | 苹方-简 | `PingFang SC` |
 | 苹方-简 细体 | `PingFangSC-Light` |
 
