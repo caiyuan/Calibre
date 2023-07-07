@@ -12,7 +12,7 @@
 
 ```css
 html {
-    font-family: 'OPlusSans 3.0';
+    font-family: 'HarmonyOS Sans SC';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
