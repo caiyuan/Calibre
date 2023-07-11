@@ -1,3 +1,9 @@
+## 阅读器服务
+
+```sh
+'/Applications/calibre.app/Contents/MacOS/calibre-server' --help
+```
+
 ## 阅读器配置
 
 - iBook
