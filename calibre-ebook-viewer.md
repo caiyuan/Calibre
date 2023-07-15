@@ -43,7 +43,8 @@ a { text-decoration: none; }
 sup, sup a {
     font-family: monospace;
     font-size: x-small;
-    vertical-align: bottom;
+    line-height: 1em;
+    vertical-align: super;
 }
 
 image, img, svg {
