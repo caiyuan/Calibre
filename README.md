@@ -1,5 +1,13 @@
 # Calibre
 
+```css
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+```
+
+
 | 字体 | PostScript 名称 |
 | --- | ---|
 | HarmonyOS Sans 简 | `HarmonyOS Sans SC` |
