@@ -32,8 +32,7 @@ p {
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     line-height: 1.5em;
-    margin-top: 1.5em;
-    margin-bottom: 1em;
+    margin: 1.5em 0 1em 0;
 }
 
 /* ~~~~~~~~~~分隔符~~~~~~~~~~ */
