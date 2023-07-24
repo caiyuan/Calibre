@@ -17,7 +17,11 @@
 - 样式
 
 ```css
-html {
+* { writing-mode: unset !important; }
+```
+
+```css
+body {
     font-family: 'HarmonyOS Sans SC';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -35,8 +39,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: 1.5em 0 1em 0;
 }
 
-/* ~~~~~~~~~~分隔符~~~~~~~~~~ */
-
 a { text-decoration: none; }
 
 sup {
@@ -52,10 +54,6 @@ image, img, svg {
     padding: 0.25em !important;
     max-width: 65% !important;
 }
-```
-
-```css
-* { writing-mode: unset !important; }
 ```
 
 ## 其它
