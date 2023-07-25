@@ -49,9 +49,9 @@ sup {
 
 image, img, svg {
     display: block;
-    margin: auto !important;
-    padding: 0.25rem !important;
-    max-width: 65% !important;
+    margin: auto;
+    max-width: 65%;
+    padding: 0.25rem;
 }
 ```
 
