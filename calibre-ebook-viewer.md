@@ -29,14 +29,14 @@ body {
 
 p {
     font-weight: normal;
-    line-height: 1.9em;
+    line-height: 1.9rem;
     margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    line-height: 1.5em;
-    margin: 1.5em 0 1em 0;
+    line-height: 1.5rem;
+    margin: 1.5rem 0 1rem 0;
 }
 
 a { text-decoration: none; }
@@ -44,14 +44,14 @@ a { text-decoration: none; }
 sup {
     font-family: monospace;
     font-size: x-small;
-    line-height: 1em;
+    line-height: 1rem;
     vertical-align: super;
 }
 
 image, img, svg {
     display: block;
     margin: auto !important;
-    padding: 0.25em !important;
+    padding: 0.25rem !important;
     max-width: 65% !important;
 }
 ```
