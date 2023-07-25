@@ -50,7 +50,7 @@ sup {
 image, img, svg {
     display: block;
     margin: auto;
-    max-width: 65%;
+    max-width: 65% !important;
     padding: 0.25rem;
 }
 ```
