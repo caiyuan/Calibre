@@ -17,7 +17,7 @@
 - 样式
 
 ```css
-* { writing-mode: unset !important; }
+* { writing-mode: horizontal-tb !important; }
 ```
 
 ```css
