@@ -18,6 +18,8 @@ html {
 | 苹方-简 细体 | `PingFangSC-Light` |
 | 苹方-繁 | `PingFang TC` |
 | 苹方-繁 细体 | `PingFangTC-Light` |
+| OPPO Sans | `OPlusSans 3.0` |
+| OPPO Sans 细体 | `OPlusSans3.0-Light` |
 
 
 | 字体 | font-family |
