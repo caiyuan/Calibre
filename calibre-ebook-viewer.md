@@ -17,9 +17,11 @@
 `calibre-session--user_color_schemes`
 ```json
 {
+"* 浅黄色":{"name":" 浅黄色","foreground":"#262523","background":"#f7f1e4","link":"#b98a2b"},
+"* 深灰色":{"name":" 深灰色","foreground":"#b5b5b5","background":"#1e1e1e","link":"#2e7cb8"},
 "*☘️ 护眼绿":{"name":"☘️ 护眼绿","foreground":"#222222","background":"#a6c9ab","link":"#14801d"},
-"*📚 深黑色":{"name":"📚 深黑色","foreground":"#d0d3d8","background":"#1c1c1d","link":"#0097ff"},
-"*🍂 时报黄":{"name":"🍂 时报黄","foreground":"#33302e","background":"#fff1e5","link":"#990f3d"}
+"*🍂 时报黄":{"name":"🍂 时报黄","foreground":"#33302e","background":"#fff1e5","link":"#990f3d"},
+"*📚 深黑色":{"name":"📚 深黑色","foreground":"#d0d3d8","background":"#1c1c1d","link":"#0097ff"}
 }
 ```
 
