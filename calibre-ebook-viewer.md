@@ -61,6 +61,7 @@ image, img, svg {
     margin: auto;
     padding: 0.25rem;
     max-width: 65% !important;
+    min-width: auto !important;
 }
 ```
 
