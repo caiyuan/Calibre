@@ -36,16 +36,16 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-p {
-    font-weight: normal;
-    line-height: 1.9rem;
-    margin: 0;
-}
-
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     line-height: 1.5rem;
     margin: 1.5rem 0 1rem 0;
+}
+
+p {
+    font-weight: normal;
+    line-height: 1.9rem;
+    margin: 0;
 }
 
 a { text-decoration: none; }
