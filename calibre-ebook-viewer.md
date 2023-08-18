@@ -55,7 +55,9 @@ sup {
     line-height: 1rem;
     vertical-align: super;
 }
+```
 
+```css
 image, img, svg {
     display: block;
     margin: auto;
