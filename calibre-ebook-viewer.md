@@ -39,13 +39,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     line-height: 1.5rem;
-    margin: 1.5rem 0 1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 p {
     font-weight: normal;
-    line-height: 1.5rem;
-    margin: 0.7rem 0;
+    line-height: 1.9rem;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 a { text-decoration: none; }
