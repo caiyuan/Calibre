@@ -39,7 +39,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     line-height: 1.5rem;
-    margin: 1.5rem 0 1rem 0;
+    margin: 1.5rem 0 1rem;
 }
 
 p {
