@@ -14,7 +14,6 @@
 | 背景 | #A6C9AB | #FFF1E5 | #1C1C1D |
 | 链接 | #14801D | #990F3D | #0097FF |
 
-`calibre-session--user_color_schemes`
 ```json
 {
 "*☘️ 护眼绿":{"name":"☘️ 护眼绿","foreground":"#222222","background":"#a6c9ab","link":"#14801d"},
