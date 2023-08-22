@@ -41,9 +41,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    line-height: 1.5rem;
-    margin-top: 1.5rem;
-    margin-bottom: 1rem;
+    line-height: 1.6rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 p {
