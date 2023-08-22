@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
     font-weight: normal;
-    line-height: 1.9rem;
+    line-height: 1.7rem;
     margin-top: 0;
     margin-bottom: 0;
 }
