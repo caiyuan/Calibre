@@ -36,7 +36,7 @@ html {
 }
 
 body {
-    font-family: 'PingFang SC';
+    font-family: 'HarmonyOS Sans SC';
 }
 
 h1, h2, h3, h4, h5, h6 {
