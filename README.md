@@ -7,20 +7,17 @@ html {
 }
 ```
 
+-
 
 | 字体 | PostScript 名称 |
 | --- | ---|
 | HarmonyOS Sans 简 | `HarmonyOS Sans SC` |
-| HarmonyOS Sans 简 细体 | `HarmonyOS_Sans_SC_Light` |
 | HarmonyOS Sans 繁 | `HarmonyOS Sans TC` |
-| HarmonyOS Sans 繁 细体 | `HarmonyOS_Sans_TC_Light` |
 | 苹方-简 | `PingFang SC` |
-| 苹方-简 细体 | `PingFangSC-Light` |
 | 苹方-繁 | `PingFang TC` |
-| 苹方-繁 细体 | `PingFangTC-Light` |
 | OPPO Sans | `OPlusSans 3.0` |
-| OPPO Sans 细体 | `OPlusSans3.0-Light` |
 
+-
 
 | 字体 | font-family |
 | --- | ---|
