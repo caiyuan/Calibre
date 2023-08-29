@@ -62,16 +62,6 @@ sup {
 }
 ```
 
-```css
-image, img, svg {
-    display: block;
-    margin: auto;
-    padding: 0.25rem;
-    max-width: 65% !important;
-    min-width: auto !important;
-}
-```
-
 ## 其它
 
 - PDF
