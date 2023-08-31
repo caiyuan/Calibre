@@ -32,22 +32,20 @@
 ```css
 html {
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
 
 body {
-    font-family: 'HarmonyOS Sans SC';
+    font-family: 'PingFang SC';
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
     line-height: 1.6rem;
     margin-top: 1rem;
     margin-bottom: 0.5rem;
 }
 
 p {
-    font-weight: normal;
+    font-size: 1rem;
     line-height: 1.7rem;
     margin-top: 0;
     margin-bottom: 0;
