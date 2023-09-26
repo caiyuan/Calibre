@@ -17,7 +17,23 @@ html {
 | HarmonyOS Sans 繁 | `HarmonyOS Sans TC` |
 | 苹方-简 | `PingFang SC` |
 | 苹方-繁 | `PingFang TC` |
-| OPPO Sans | `OPlusSans 3.0` |
+| 苹方-港 | `PingFang HK` |
+
+| 字体 | font-family |
+| --- | ---|
+| 华文仿宋 | STFangsong |
+| 华文黑体 | STHeiti |
+| 华文楷体 | STKaiti |
+| 华文宋体 | STSong |
+
+| 字体 | font-family |
+| --- | ---|
+| 黑体-简 | Heiti SC |
+| 黑体-繁 | Heiti TC |
+| 楷体-简 | Kaiti SC |
+| 楷体-繁 | Kaiti TC |
+| 宋体-简 | Songti SC |
+| 宋体-繁 | Songti TC |
 
 -
 
@@ -34,12 +50,8 @@ html {
 | 手札体-繁 | Hannotate TC |
 | 翩翩体-简 | HanziPen SC |
 | 翩翩体-繁 | HanziPen TC |
-| 黑体-简 | Heiti SC |
-| 黑体-繁 | Heiti TC |
 | 冬青黑体繁体中文 | Hiragino Sans CNS |
 | 冬青黑体简体中文 | Hiragino Sans GB |
-| 楷体-简 | Kaiti SC |
-| 楷体-繁 | Kaiti TC |
 | 兰亭黑-简 | Lantinghei SC |
 | 兰亭黑-繁 | Lantinghei TC |
 | 隶变-简 | Libian SC |
@@ -48,16 +60,7 @@ html {
 | 凌慧体-简 | LingWai SC |
 | 凌慧体-繁 | LingWai TC |
 | 儷宋 Pro | LiSong Pro |
-| 苹方-港 | PingFang HK |
-| 苹方-简 | PingFang SC |
-| 苹方-繁 | PingFang TC |
 | 简宋 | SimSong |
-| 宋体-简 | Songti SC |
-| 宋体-繁 | Songti TC |
-| 华文仿宋 | STFangsong |
-| 华文黑体 | STHeiti |
-| 华文楷体 | STKaiti |
-| 华文宋体 | STSong |
 | 娃娃体-简 | Wawati SC |
 | 娃娃体-繁 | Wawati TC |
 | 行楷-简 | Xingkai SC |
