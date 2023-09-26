@@ -19,12 +19,7 @@ html {
 | 苹方-繁 | `PingFang TC` |
 | 苹方-港 | `PingFang HK` |
 
-| 字体 | font-family |
-| --- | ---|
-| 华文仿宋 | STFangsong |
-| 华文黑体 | STHeiti |
-| 华文楷体 | STKaiti |
-| 华文宋体 | STSong |
+-
 
 | 字体 | font-family |
 | --- | ---|
@@ -34,6 +29,13 @@ html {
 | 楷体-繁 | Kaiti TC |
 | 宋体-简 | Songti SC |
 | 宋体-繁 | Songti TC |
+
+| 字体 | font-family |
+| --- | ---|
+| 华文仿宋 | STFangsong |
+| 华文黑体 | STHeiti |
+| 华文楷体 | STKaiti |
+| 华文宋体 | STSong |
 
 -
 
