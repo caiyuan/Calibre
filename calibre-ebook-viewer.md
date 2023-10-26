@@ -40,14 +40,9 @@
 
 ```css
 * { writing-mode: horizontal-tb !important; }
-```
 
-```css
 html {
     -webkit-font-smoothing: antialiased;
-}
-
-body {
     font-family: 'HarmonyOS Sans SC';
 }
 
