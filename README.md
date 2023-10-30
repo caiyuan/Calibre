@@ -4,6 +4,7 @@
 
 ```css
 html {
+    -webkit-font-size-adjust: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
