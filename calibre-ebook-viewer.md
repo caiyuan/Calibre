@@ -44,11 +44,12 @@
 
 html {
     -webkit-font-smoothing: antialiased;
-    font-family: 'HarmonyOS Sans SC';
+    font-family: 'HYQiHei_50S';
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
+    font-family: 'HYShangWeiShouShuW';
+    font-weight: normal;
     line-height: 1.7rem;
     margin-top: 1.5rem;
     margin-bottom: 1rem;
