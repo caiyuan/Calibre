@@ -44,12 +44,12 @@
 
 html {
     -webkit-font-smoothing: antialiased;
-    font-family: 'HYQiHei_55S';
+    font-family: 'Misans TC VF', 'Misans VF';
+    font-variation-settings: "wght" 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'HYShangWeiShouShuW';
-    font-weight: normal;
+    font-family: 'Libian TC';
     line-height: 1.7rem;
     margin-top: 1.5rem;
     margin-bottom: 1rem;
