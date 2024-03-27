@@ -49,7 +49,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Libian TC';
+    font-family: 'Libian TC', 'Libian SC';
     line-height: 1.7rem;
     margin-top: 1.5rem;
     margin-bottom: 1rem;
