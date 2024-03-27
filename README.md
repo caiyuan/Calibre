@@ -59,9 +59,6 @@ html {
 
 | 字体 | font-family |
 | --- | ---|
-| 苹方-简 | PingFang SC |
-| 苹方-繁 | PingFang TC |
-| 苹方-港 | PingFang HK |
 | 蘋果儷中黑 | Apple LiGothic |
 | 蘋果儷細宋 | Apple LiSung |
 | 报隶-简 | Baoli SC |
@@ -83,6 +80,9 @@ html {
 | 凌慧体-简 | LingWai SC |
 | 凌慧体-繁 | LingWai TC |
 | 儷宋 Pro | LiSong Pro |
+| 苹方-港 | PingFang HK |
+| 苹方-简 | PingFang SC |
+| 苹方-繁 | PingFang TC |
 | 简宋 | SimSong |
 | 娃娃体-简 | Wawati SC |
 | 娃娃体-繁 | Wawati TC |
