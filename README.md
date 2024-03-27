@@ -3,7 +3,6 @@
 ### CSS
 
 - [font-smooth](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-smooth)
-
 ```css
 html {
     -webkit-font-size-adjust: none;
@@ -26,16 +25,6 @@ html {
 | --- | ---|
 | Misans 简 | `Misans VF` |
 | Misans 繁 | `Misans TC VF` |
-
--
-
-| 字体 | PostScript 名称 |
-| --- | ---|
-| HarmonyOS Sans 简 | `HarmonyOS Sans SC` |
-| HarmonyOS Sans 繁 | `HarmonyOS Sans TC` |
-| 苹方-简 | `PingFang SC` |
-| 苹方-繁 | `PingFang TC` |
-| 苹方-港 | `PingFang HK` |
 
 -
 
@@ -70,6 +59,9 @@ html {
 
 | 字体 | font-family |
 | --- | ---|
+| 苹方-简 | PingFang SC |
+| 苹方-繁 | PingFang TC |
+| 苹方-港 | PingFang HK |
 | 蘋果儷中黑 | Apple LiGothic |
 | 蘋果儷細宋 | Apple LiSung |
 | 报隶-简 | Baoli SC |
