@@ -1,6 +1,8 @@
 # Calibre
 
--
+### CSS
+
+- [font-smooth](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-smooth)
 
 ```css
 html {
@@ -9,6 +11,21 @@ html {
     -moz-osx-font-smoothing: grayscale;
 }
 ```
+
+- [font-variation-settings](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-variation-settings)
+```css
+html {
+    font-family: 'Misans TC VF';
+    font-variation-settings: "wght" 300;
+}
+```
+
+### Fonts
+
+| Variable fonts | font-family |
+| --- | ---|
+| Misans 简 | `Misans VF` |
+| Misans 繁 | `Misans TC VF` |
 
 -
 
