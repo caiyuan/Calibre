@@ -15,7 +15,7 @@ html {
 - [font-variation-settings](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-variation-settings)
 ```css
 html {
-    font-family: 'Misans TC VF';
+    font-family: 'Misans VF';
     font-variation-settings: "wght" 300;
 }
 ```
