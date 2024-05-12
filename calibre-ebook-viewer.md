@@ -71,6 +71,13 @@ sup {
 }
 ```
 
+```css
+h1, h2, h3, h4, h5, h6 {
+    color: #bb5500;
+    font-weight: bold;
+}
+```
+
 ## 其它
 
 - PDF
