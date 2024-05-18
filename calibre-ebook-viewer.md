@@ -76,6 +76,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #bb5500;
     font-weight: bold;
 }
+p {
+    margin-bottom: 0.5rem;
+    line-height: 1.5rem;
+}
 ```
 
 ## 其它
