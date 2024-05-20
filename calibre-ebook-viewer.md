@@ -42,10 +42,10 @@
 ```css
 * { writing-mode: horizontal-tb !important; }
 
-html {
+html, body {
     -webkit-font-smoothing: antialiased;
     font-family: 'Misans VF', 'Misans TC VF';
-    font-variation-settings: "wght" 300;
+    font-variation-settings: "wght" 270;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 p {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.7rem;
     line-height: 1.5rem;
 }
 ```
