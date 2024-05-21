@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 p {
-    margin-bottom: 0.7rem;
+    margin-bottom: 1rem;
     line-height: 1.5rem;
 }
 ```
