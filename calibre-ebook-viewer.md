@@ -40,30 +40,32 @@
 - 样式规则
 
 ```css
-* { writing-mode: horizontal-tb !important; }
+* {
+    writing-mode: horizontal-tb !important;
+}
+```
 
+```css
 html, body {
     -webkit-font-smoothing: antialiased;
     font-family: 'Misans VF', 'Misans TC VF';
     font-variation-settings: "wght" 330;
 }
-
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Libian SC', 'Libian TC';
     line-height: 1.7rem;
     margin-top: 1.5rem;
     margin-bottom: 1rem;
 }
-
 p {
     font-size: 1rem;
     line-height: 1.7rem;
     margin-top: 0;
     margin-bottom: 0;
 }
-
-a { text-decoration: none; }
-
+a {
+    text-decoration: none;
+}
 sup {
     font-size: x-small;
     line-height: 1rem;
@@ -78,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 p {
     margin-bottom: 1rem;
-    line-height: 1.5rem;
+    line-height: 1.7rem;
 }
 ```
 
