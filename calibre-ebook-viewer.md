@@ -49,7 +49,7 @@
 html, body {
     -webkit-font-smoothing: antialiased;
     font-family: 'Misans VF', 'Misans TC VF';
-    font-variation-settings: "wght" 330;
+    font-variation-settings: normal;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Libian SC', 'Libian TC';
