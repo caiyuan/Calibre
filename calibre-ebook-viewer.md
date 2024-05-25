@@ -45,7 +45,7 @@
 html, body {
     -webkit-font-smoothing: antialiased;
     font-family: 'Misans VF', 'Misans TC VF';
-    font-variation-settings: "wght" 270;
+    font-variation-settings: "wght" 330;
 }
 
 h1, h2, h3, h4, h5, h6 {
