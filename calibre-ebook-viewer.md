@@ -84,12 +84,12 @@ p {
 }
 ```
 
-- 版面样式 `（卷轴模式）`
+- 版面样式 `(卷轴模式)`
 
 ```css
 body.calibre-viewer-scrolling {
     margin: 30% auto !important;
-    max-width: 1000px;
+    max-width: 900px;
 }
 ```
 
