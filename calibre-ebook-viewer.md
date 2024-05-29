@@ -37,7 +37,7 @@
 ]
 ```
 
-- 样式规则
+- 内容样式
 
 ```css
 * {
@@ -81,6 +81,15 @@ h1, h2, h3, h4, h5, h6 {
 p {
     margin-bottom: 1rem;
     line-height: 1.7rem;
+}
+```
+
+- 版面样式 `（卷轴模式）`
+
+```css
+body.calibre-viewer-scrolling {
+    margin: 30% auto !important;
+    max-width: 1000px;
 }
 ```
 
