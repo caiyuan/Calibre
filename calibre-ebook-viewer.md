@@ -86,8 +86,8 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
     content: "☄";
     display: block;
     text-align: center;
-    font-size: 35px;
-    color: #ff7000;
+    font-size: 30px;
+    filter: invert(50%);
     margin: 50% auto;
 }
 ```
