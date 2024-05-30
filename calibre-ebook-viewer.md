@@ -40,28 +40,23 @@
 - 内容样式
 
 ```css
-* {
-    writing-mode: horizontal-tb !important;
-}
-```
-
-```css
-html, body {
+html {
     -webkit-font-smoothing: antialiased;
     font-family: 'Misans VF', 'Misans TC VF';
     font-variation-settings: normal;
+    font-weight: 300;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Libian SC', 'Libian TC';
+    font-family: 'Xingkai SC', 'Xingkai TC';
     line-height: 1.7rem;
     margin-top: 1.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
 p {
     font-size: 1rem;
     line-height: 1.7rem;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 a {
     text-decoration: none;
@@ -73,14 +68,11 @@ sup {
 }
 ```
 
+- 文本排布
+
 ```css
-h1, h2, h3, h4, h5, h6 {
-    color: #ff0000A0;
-    font-weight: bold;
-}
-p {
-    margin-bottom: 1rem;
-    line-height: 1.7rem;
+* {
+    writing-mode: horizontal-tb !important;
 }
 ```
 
