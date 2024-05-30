@@ -76,7 +76,7 @@ sup {
 }
 ```
 
-- 版面样式 `(卷轴模式)`
+- 卷轴模式
 
 ```css
 body.calibre-viewer-scrolling {
