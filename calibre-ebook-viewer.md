@@ -40,6 +40,7 @@
 - 内容样式
 
 ```css
+/* 内容样式 */
 html {
     -webkit-font-smoothing: antialiased;
     font-family: 'Misans VF', 'Misans TC VF';
@@ -71,6 +72,7 @@ sup {
 - 文本排布
 
 ```css
+/* 文本排布 */
 * {
     writing-mode: horizontal-tb !important;
 }
@@ -79,6 +81,7 @@ sup {
 - 卷轴模式
 
 ```css
+/* 卷轴模式 */
 body.calibre-viewer-scrolling {
     max-width: 850px;
     margin: auto !important;
