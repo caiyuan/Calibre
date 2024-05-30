@@ -80,7 +80,7 @@ sup {
 
 ```css
 body.calibre-viewer-scrolling {
-    max-width: 900px;
+    max-width: 850px;
     margin: auto !important;
 }
 body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
