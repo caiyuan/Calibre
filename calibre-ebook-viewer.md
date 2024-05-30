@@ -83,11 +83,11 @@ body.calibre-viewer-scrolling {
     margin: auto !important;
 }
 body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
-    content: "";
+    content: "☄";
     display: block;
-    width: 100%;
-    height: 60px;
-    border: double #66669030;
+    text-align: center;
+    font-size: 35px;
+    color: #ff7000;
     margin: 50% auto;
 }
 ```
