@@ -94,13 +94,10 @@ body.calibre-viewer-scrolling {
 body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
     content: "";
     display: block;
-    top: 0;
-    left: 0;
     width: 100%;
-    height: 30px;
-    background-color: #66669090;
-    z-index: -1;
-    margin: 15% auto;
+    height: 60px;
+    border: double #66669030;
+    margin: 50% auto;
 }
 ```
 
