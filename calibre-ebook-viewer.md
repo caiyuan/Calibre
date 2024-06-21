@@ -70,13 +70,6 @@ sup {
 ```
 
 ```css
-/* 文本排布 */
-* {
-    writing-mode: horizontal-tb !important;
-}
-```
-
-```css
 /* 卷轴模式 */
 body.calibre-viewer-scrolling {
     max-width: 850px;
@@ -89,6 +82,13 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
     font-size: 30px;
     filter: invert(50%);
     margin: 50% auto;
+}
+```
+
+```css
+/* 文本排布 */
+* {
+    writing-mode: horizontal-tb !important;
 }
 ```
 
