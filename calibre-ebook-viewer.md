@@ -45,7 +45,7 @@ html {
     -webkit-font-smoothing: antialiased;
     font-family: 'Misans VF', 'Misans TC VF';
     font-variation-settings: normal;
-    font-weight: 300;
+    font-weight: unset;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Xingkai SC', 'Xingkai TC';
