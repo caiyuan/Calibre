@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         calibre-viewer
-// @namespace    https://github.com/caiyuan/Tampermonkey
+// @namespace    https://github.com/caiyuan/Calibre
 // @version      0.1
 // @description  calibre-viewer
 // @author       Ryan
