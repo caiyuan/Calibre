@@ -28,17 +28,6 @@ html {
 
 -
 
-| 字体 | 标识 | PostScript 名称 |
-| --- | --- | --- |
-| 汉仪尚巍手书 | `汉仪尚巍手书` | `HYShangWeiShouShuW` |
-| 汉仪旗黑 | `汉仪旗黑 25S` | `HYQiHei_25S` |
-| 汉仪玄宋 | `汉仪玄宋 35S` | `HYXuanSong-35S` |
-| 汉仪书仿 | `汉仪书仿 55W` | `HYShuFang-55W` |
-| 汉仪有楷 | `汉仪有楷 35W` | `HYYouKai-35W` |
-| 汉仪花冠 | `汉仪花冠 55W` | `HYHuaGuan_55W` |
-
--
-
 | 字体 | font-family |
 | --- | ---|
 | 黑体-简 | Heiti SC |
