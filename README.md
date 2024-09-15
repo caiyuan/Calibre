@@ -39,10 +39,10 @@ html {
 
 | 字体 | font-family |
 | --- | ---|
-| 华文仿宋 | STFangsong |
 | 华文黑体 | STHeiti |
 | 华文楷体 | STKaiti |
 | 华文宋体 | STSong |
+| 华文仿宋 | STFangsong |
 
 -
 
