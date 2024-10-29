@@ -21,10 +21,15 @@ html {
 
 ### Fonts
 
+1. [霞鹜文楷屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen/releases)
+2. [MiSans](https://hyperos.mi.com/font)
+
+-
+
 | Variable fonts | font-family |
 | --- | ---|
-| Misans 简 | `Misans VF` |
-| Misans 繁 | `Misans TC VF` |
+| MiSans 简 | `Misans VF` |
+| MiSans 繁 | `Misans TC VF` |
 
 -
 
