@@ -42,7 +42,7 @@
 /* 内容样式 */
 html {
     -webkit-font-smoothing: antialiased;
-    font-family: 'Misans VF', 'Misans TC VF';
+    font-family: 'MiSans VF', 'MiSans TC VF';
     font-variation-settings: normal;
     font-weight: normal;
 }
