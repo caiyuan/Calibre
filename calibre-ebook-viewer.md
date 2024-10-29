@@ -71,7 +71,7 @@ sup {
 ```css
 /* 卷轴模式 */
 body.calibre-viewer-scrolling {
-    max-width: 850px;
+    max-width: 950px;
     margin: auto !important;
 }
 body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
