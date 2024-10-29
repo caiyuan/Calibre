@@ -18,8 +18,8 @@
 {
 "*🐝 蜂黄色":{"name":"🐝 蜂黄色","foreground":"#1a1a1a","background":"#e4dfcd","link":"#9b680e"},
 "*🌿 浅绿色":{"name":"🌿 浅绿色","foreground":"#1a1a1a","background":"#a6c9ab","link":"#14801d"},
-"*🦉 墨黑色":{"name":"🦉 墨黑色","foreground":"#b2b2b2","background":"#1c1c1c","link":"#0099ff"},
-"*🌘 夜幕黑":{"name":"🌘 夜幕黑","foreground":"#666666","background":"#000000","link":"#7f3500"}
+"*🦉 墨黑色":{"name":"🦉 墨黑色","foreground":"#c3c3c3","background":"#1c1c1c","link":"#0099ff"},
+"*🌘 夜幕黑":{"name":"🌘 夜幕黑","foreground":"#a1a1a1","background":"#000000","link":"#7f3500"}
 }
 ```
 
