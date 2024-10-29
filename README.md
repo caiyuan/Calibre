@@ -28,8 +28,8 @@ html {
 
 | Variable fonts | font-family |
 | --- | ---|
-| MiSans 简 | `Misans VF` |
-| MiSans 繁 | `Misans TC VF` |
+| MiSans 简 | `MiSans VF` |
+| MiSans 繁 | `MiSans TC VF` |
 
 -
 
