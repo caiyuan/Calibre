@@ -30,6 +30,11 @@ html {
 | --- | ---|
 | MiSans 简 | `MiSans VF` |
 | MiSans 繁 | `MiSans TC VF` |
+| | |
+| 霞鹜文楷 GB 屏幕阅读版 | `LXGWWenKaiGBScreen` |
+| 霞鹜文楷等宽 GB 屏幕阅读版 | `LXGWWenKaiMonoGBScreen` |
+| 霞鹜文楷 屏幕阅读版 | `LXGWWenKaiScreen` |
+| 霞鹜文楷等宽 屏幕阅读版 | `LXGWWenKaiMonoScreen` |
 
 -
 
