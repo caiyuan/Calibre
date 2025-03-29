@@ -32,11 +32,11 @@ html {
 | MiSans 简 | `MiSans VF` |
 | MiSans 繁 | `MiSans TC VF` |
 | | |
-| 霞鹜文楷 GB | `LXGWWenKaiGB` |
-| 霞鹜文楷等宽 GB | `LXGWWenKaiMonoGB` |
+| 霞鹜文楷 GB | `LXGW WenKai GB` |
+| 霞鹜文楷等宽 GB | `LXGW WenKai Mono GB` |
 | | |
-| 霞鹜文楷 | `LXGWWenKai` |
-| 霞鹜文楷等宽 | `LXGWWenKaiMono` |
+| 霞鹜文楷 | `LXGW WenKai` |
+| 霞鹜文楷等宽 | `LXGW WenKai Mono` |
 
 -
 
