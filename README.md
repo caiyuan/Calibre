@@ -21,7 +21,7 @@ html {
 
 ### Fonts
 
-1. [霞鹜文楷屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen/releases)
+1. [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases)
 2. [MiSans](https://hyperos.mi.com/font)
 
 -
