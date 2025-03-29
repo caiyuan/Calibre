@@ -91,8 +91,6 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 }
 ```
 
--
-
 ```css
 /* ... */
 h1, h2, h3, h4, h5, h6 {
