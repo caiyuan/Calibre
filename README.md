@@ -21,9 +21,9 @@ html {
 
 ### Fonts
 
-1. [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases)
+1. [MiSans](https://hyperos.mi.com/font)
 2. [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB/releases)
-3. [MiSans](https://hyperos.mi.com/font)
+3. [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases)
 
 -
 
