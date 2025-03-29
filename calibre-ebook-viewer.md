@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 p, p[class] {
-    font-family: 'LXGW WenKai GB';
+    font-family: 'LXGW WenKai GB', 'LXGW WenKai';
 }
 ```
 
