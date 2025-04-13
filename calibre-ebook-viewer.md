@@ -41,7 +41,7 @@
 ```css
 /* 内容样式 */
 html {
-    -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: subpixel-antialiased;
     font-family: 'MiSans VF', 'MiSans TC VF';
     font-variation-settings: normal;
     font-weight: normal;
