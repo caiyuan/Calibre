@@ -80,7 +80,7 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
     text-align: center;
     font-size: 30px;
     filter: invert(50%);
-    margin: 50% auto;
+    margin: 5% auto;
 }
 ```
 
