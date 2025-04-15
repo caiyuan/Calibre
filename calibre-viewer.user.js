@@ -11,11 +11,18 @@
 (function() {
     'use strict';
 
+    /* 展示目录时的样式 */
+
+    GM_addStyle("#book-overlay:has(.simple-tree) {font-weight: lighter; display: contents !important;}");
+    GM_addStyle("#book-overlay:has(.simple-tree) > div {min-width: 450px; max-width: 550px !important;}");
+    GM_addStyle("#book-overlay:has(.simple-tree) .main-top-bar {left: auto !important;}");
+    GM_addStyle("#book-overlay:has(.simple-tree) .main-top-bar a {width: 0;}");
+
 
     /* 内容置于屏幕中央 */
 
-    GM_addStyle("@media screen and (min-width: 1200px) { #book-left-margin {padding-left: 12%; margin-right: 3%; filter: invert(5%);} }");
-    GM_addStyle("@media screen and (min-width: 1200px) { #book-right-margin {padding-right: 12%; margin-left: 3%; filter: invert(5%);} }");
+    GM_addStyle("@media screen and (min-width: 1200px) { #book-left-margin {padding-left: 0%; margin-right: 3%; filter: invert(5%);} }");
+    GM_addStyle("@media screen and (min-width: 1200px) { #book-right-margin {padding-right: 0%; margin-left: 3%; filter: invert(5%);} }");
 
     GM_addStyle("@media screen and (max-width: 1200px) { #book-left-margin {margin-right: 3%; filter: invert(5%);} }");
     GM_addStyle("@media screen and (max-width: 1200px) { #book-right-margin {margin-left: 3%; filter: invert(5%);} }");
