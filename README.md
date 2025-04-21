@@ -22,8 +22,9 @@ html {
 ### Fonts
 
 1. [MiSans](https://hyperos.mi.com/font)
-2. [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB/releases)
-3. [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases)
+2. [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases)
+3. [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB/releases)
+4. [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC/releases)
 
 -
 
@@ -32,11 +33,14 @@ html {
 | MiSans 简 | `MiSans VF` |
 | MiSans 繁 | `MiSans TC VF` |
 | | |
+| 霞鹜文楷 | `LXGW WenKai` |
+| 霞鹜文楷等宽 | `LXGW WenKai Mono` |
+| | |
 | 霞鹜文楷 GB | `LXGW WenKai GB` |
 | 霞鹜文楷等宽 GB | `LXGW WenKai Mono GB` |
 | | |
-| 霞鹜文楷 | `LXGW WenKai` |
-| 霞鹜文楷等宽 | `LXGW WenKai Mono` |
+| 霞鶩文楷 TC | `LXGW WenKai TC` |
+| 霞鶩文楷等宽 TC | `LXGW WenKai Mono TC` |
 
 -
 
