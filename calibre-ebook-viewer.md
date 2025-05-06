@@ -37,7 +37,7 @@
 /* 内容样式 */
 html {
     -webkit-font-smoothing: subpixel-antialiased;
-    font-family: 'MiSans VF', 'MiSans TC VF';
+    font-family: 'PingFang SC', 'PingFang TC';
     font-variation-settings: normal;
     font-weight: normal;
 }
