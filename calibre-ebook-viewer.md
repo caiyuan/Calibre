@@ -99,12 +99,3 @@ p, p[class] {
     font-family: 'LXGW WenKai GB', 'LXGW WenKai TC';
 }
 ```
-
-## 其它
-
-- PDF
-
-| 属性 | 值 |
-| --- | --- |
-| 字号 | 38 |
-| 边距 | 150 |
