@@ -30,6 +30,9 @@ html {
 
 | Variable fonts | font-family |
 | --- | ---|
+| 苹方-简 | `PingFang SC` |
+| 苹方-繁 | `PingFang TC` |
+| | |
 | MiSans 简 | `MiSans VF` |
 | MiSans 繁 | `MiSans TC VF` |
 | | |
