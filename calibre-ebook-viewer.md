@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'MiSans VF', 'MiSans TC VF';
     font-weight: 600;
 }
-p, p[class] {
+p {
     font-family: 'LXGW WenKai GB', 'LXGW WenKai TC';
     font-weight: 400;
 }
