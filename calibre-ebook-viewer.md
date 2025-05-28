@@ -89,11 +89,11 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 ```css
 /* ... */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'MiSans VF', 'MiSans TC VF';
+    font-family: 'MiSans VF', 'MiSans TC VF' !important;
     font-weight: 600;
 }
 p {
-    font-family: 'LXGW WenKai GB', 'LXGW WenKai TC';
+    font-family: 'LXGW WenKai GB', 'LXGW WenKai TC' !important;
     font-weight: 400;
 }
 ```
