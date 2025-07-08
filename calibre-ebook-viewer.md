@@ -93,6 +93,7 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'MiSans VF', 'MiSans TC VF' !important;
     font-weight: 600;
+    color: Sienna;
 }
 p {
     font-family: 'LXGW WenKai GB', 'LXGW WenKai TC' !important;
