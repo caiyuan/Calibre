@@ -33,17 +33,12 @@ html {
 | 苹方-简 | `PingFang SC` |
 | 苹方-繁 | `PingFang TC` |
 | | |
-| MiSans 简 | `MiSans VF` |
-| MiSans 繁 | `MiSans TC VF` |
+| MiSans 简 | `MiSans` |
+| MiSans 繁 | `MiSans TC` |
 | | |
 | 霞鹜文楷 | `LXGW WenKai` |
-| 霞鹜文楷等宽 | `LXGW WenKai Mono` |
-| | |
 | 霞鹜文楷 GB | `LXGW WenKai GB` |
-| 霞鹜文楷等宽 GB | `LXGW WenKai Mono GB` |
-| | |
 | 霞鶩文楷 TC | `LXGW WenKai TC` |
-| 霞鶩文楷等宽 TC | `LXGW WenKai Mono TC` |
 
 -
 
