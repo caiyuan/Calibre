@@ -82,7 +82,7 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 ```css
 /* 文本排布 */
 * {
-    writing-mode: horizontal-tb !important;
+    writing-mode: 'horizontal-tb' !important;
 }
 ```
 
@@ -91,12 +91,12 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 ```css
 /* ... */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'MiSans VF', 'MiSans TC VF' !important;
-    font-weight: 600;
+    font-family: 'MiSans' !important;
+    font-weight: 500;
     color: Sienna;
 }
 p {
-    font-family: 'LXGW WenKai GB', 'LXGW WenKai TC' !important;
-    font-weight: 400;
+    font-family: 'LXGW WenKai' !important;
+    font-weight: 300;
 }
 ```
