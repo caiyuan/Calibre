@@ -36,6 +36,7 @@ html {
 | MiSans 繁 | `MiSans TC` |
 | | |
 | 霞鹜文楷 | `LXGW WenKai` |
+| 霞鹜文楷屏幕阅读版 | `LXGW WenKai Screen` |
 
 -
 
