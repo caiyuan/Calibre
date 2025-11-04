@@ -23,8 +23,6 @@ html {
 
 1. [MiSans](https://hyperos.mi.com/font)
 2. [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases)
-3. [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB/releases)
-4. [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC/releases)
 
 -
 
@@ -37,8 +35,6 @@ html {
 | MiSans 繁 | `MiSans TC` |
 | | |
 | 霞鹜文楷 | `LXGW WenKai` |
-| 霞鹜文楷 GB | `LXGW WenKai GB` |
-| 霞鶩文楷 TC | `LXGW WenKai TC` |
 
 -
 
