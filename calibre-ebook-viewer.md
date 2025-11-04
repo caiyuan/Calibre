@@ -97,6 +97,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 p {
     font-family: 'LXGW WenKai' !important;
-    font-weight: 300;
+    font-weight: 400;
 }
 ```
