@@ -82,7 +82,8 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 ```css
 /* 文本排布 */
 * {
-    writing-mode: 'horizontal-tb' !important;
+	-webkit-writing-mode: horizontal-tb;
+	writing-mode: horizontal-tb;
 }
 ```
 
