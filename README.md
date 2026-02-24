@@ -5,7 +5,6 @@
 - [font-smooth](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-smooth)
 ```css
 html {
-    -webkit-font-size-adjust: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
