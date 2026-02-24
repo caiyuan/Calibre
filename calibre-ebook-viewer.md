@@ -91,13 +91,16 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 
 ```css
 /* ... */
+body {
+	-webkit-font-smoothing: antialiased;
+}
 h1, h2, h3, h4, h5, h6 {
-    color: Sienna;
-    font-family: 'MiSans' !important;
-    font-weight: 600;
+	color: Sienna;
+	font-family: 'MiSans' !important;
+	font-weight: 600;
 }
 p {
-    font-family: 'LXGW WenKai' !important;
-    font-weight: 400;
+	font-family: 'LXGW WenKai Screen' !important;
+	font-weight: unset;
 }
 ```
