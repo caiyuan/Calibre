@@ -36,7 +36,7 @@
 ```css
 /* 内容样式 */
 html {
-    -webkit-font-smoothing: subpixel-antialiased;
+    -webkit-font-smoothing: antialiased;
     font-family: 'PingFang SC', 'PingFang TC';
     font-variation-settings: normal;
     font-weight: normal;
