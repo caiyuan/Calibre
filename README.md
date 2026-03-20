@@ -30,10 +30,8 @@ html {
 | --- | ---|
 | 苹方-简 | `PingFang SC` |
 | 苹方-繁 | `PingFang TC` |
-| | |
-| MiSans 简 | `MiSans` |
-| MiSans 繁 | `MiSans TC` |
-| | |
+| 鸿蒙黑体 | `HarmonyOS Sans SC` |
+| 鴻蒙黑體 | `HarmonyOS Sans TC` |
 | 霞鹜文楷 GB | `LXGW WenKai GB` |
 | 霞鹜文楷 GB 屏幕阅读版 | `LXGW WenKai GB Screen` |
 
