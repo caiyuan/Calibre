@@ -96,7 +96,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
 	color: Sienna;
-	font-family: 'MiSans' !important;
+	font-family: 'HarmonyOS Sans SC' !important;
 	font-weight: 600;
 }
 p {
