@@ -20,7 +20,7 @@ html {
 
 ### Fonts
 
-1. [MiSans](https://hyperos.mi.com/font)
+1. [HarmonyOS Sans](https://developer.huawei.com/consumer/cn/design/resource/)
 2. [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB/releases)
 3. [霞鹜文楷 GB 屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen/releases)
 
