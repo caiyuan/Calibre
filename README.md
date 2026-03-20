@@ -20,9 +20,8 @@ html {
 
 ### Fonts
 
-1. [HarmonyOS Sans](https://developer.huawei.com/consumer/cn/design/resource/)
-2. [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB/releases)
-3. [霞鹜文楷 GB 屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen/releases)
+1. [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenkaiGB/releases)
+2. [霞鹜文楷 GB 屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen/releases)
 
 -
 
@@ -30,8 +29,6 @@ html {
 | --- | ---|
 | 苹方-简 | `PingFang SC` |
 | 苹方-繁 | `PingFang TC` |
-| 鸿蒙黑体 | `HarmonyOS Sans SC` |
-| 鴻蒙黑體 | `HarmonyOS Sans TC` |
 | 霞鹜文楷 GB | `LXGW WenKai GB` |
 | 霞鹜文楷 GB 屏幕阅读版 | `LXGW WenKai GB Screen` |
 
