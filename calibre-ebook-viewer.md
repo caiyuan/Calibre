@@ -82,8 +82,8 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 ```css
 /* 文本排布 */
 * {
-	-webkit-writing-mode: horizontal-tb;
-	writing-mode: horizontal-tb;
+    -webkit-writing-mode: horizontal-tb;
+    writing-mode: horizontal-tb;
 }
 ```
 
@@ -92,15 +92,15 @@ body.calibre-viewer-scrolling::before, body.calibre-viewer-scrolling::after {
 ```css
 /* ... */
 body {
-	-webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: Sienna;
-	font-family: 'PingFang SC' !important;
-	font-weight: 600;
+    color: Sienna;
+    font-family: 'PingFang SC' !important;
+    font-weight: 600;
 }
 p {
-	font-family: 'LXGW WenKai GB Screen' !important;
-	font-weight: unset;
+    font-family: 'LXGW WenKai GB Screen' !important;
+    font-weight: unset;
 }
 ```
