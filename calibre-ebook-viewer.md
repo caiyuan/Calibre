@@ -95,12 +95,12 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 h1, h2, h3, h4, h5, h6 {
-    color: Sienna;
     font-family: 'PingFang SC' !important;
     font-weight: 600;
+    color: Sienna;
 }
 p {
     font-family: 'LXGW WenKai GB Screen' !important;
-    font-weight: unset;
+    font-weight: 400;
 }
 ```
