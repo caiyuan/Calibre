@@ -104,3 +104,12 @@ p {
     font-weight: 400;
 }
 ```
+
+-
+
+```css
+/* ... */
+div img {
+    max-width: 100%;
+}
+```
