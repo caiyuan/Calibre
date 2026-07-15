@@ -103,6 +103,10 @@ p {
     font-family: 'LXGW WenKai GB Screen' !important;
     font-weight: 400;
 }
+b {
+    text-decoration: underline double 1px;
+    text-underline-offset: 5px;
+}
 ```
 
 -
